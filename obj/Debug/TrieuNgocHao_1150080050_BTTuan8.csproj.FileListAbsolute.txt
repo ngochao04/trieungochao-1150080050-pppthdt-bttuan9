@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Desktop\lthdt\TrieuNgocHao_1150080050_BTTuan8\obj\Debug\TrieuNgocHao_1150080050_BTTuan8.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\lthdt\TrieuNgocHao_1150080050_BTTuan8\obj\Debug\TrieuNgocHao_1150080050_BTTuan8.Form1.resources
+C:\Users\LENOVO\Desktop\lthdt\TrieuNgocHao_1150080050_BTTuan8\obj\Debug\TrieuNgocHao_1150080050_BTTuan8.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\lthdt\TrieuNgocHao_1150080050_BTTuan8\obj\Debug\TrieuNgocHao_1150080050_BTTuan8.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\lthdt\TrieuNgocHao_1150080050_BTTuan8\obj\Debug\TrieuNgocHao_1150080050_BTTuan8.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\lthdt\TrieuNgocHao_1150080050_BTTuan8\bin\Debug\QuanLyBanSach.mdf
+C:\Users\LENOVO\Desktop\lthdt\TrieuNgocHao_1150080050_BTTuan8\bin\Debug\QuanLyBanSach_log.ldf
+C:\Users\LENOVO\Desktop\lthdt\TrieuNgocHao_1150080050_BTTuan8\bin\Debug\TrieuNgocHao_1150080050_BTTuan8.exe.config
+C:\Users\LENOVO\Desktop\lthdt\TrieuNgocHao_1150080050_BTTuan8\bin\Debug\TrieuNgocHao_1150080050_BTTuan8.exe
+C:\Users\LENOVO\Desktop\lthdt\TrieuNgocHao_1150080050_BTTuan8\bin\Debug\TrieuNgocHao_1150080050_BTTuan8.pdb
+C:\Users\LENOVO\Desktop\lthdt\TrieuNgocHao_1150080050_BTTuan8\obj\Debug\TrieuNgocHao_1150080050_BTTuan8.exe
+C:\Users\LENOVO\Desktop\lthdt\TrieuNgocHao_1150080050_BTTuan8\obj\Debug\TrieuNgocHao_1150080050_BTTuan8.pdb
